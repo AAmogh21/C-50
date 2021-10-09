@@ -1,0 +1,35 @@
+h1{
+    color : blueviolet
+}
+
+.header{
+background-color: aquamarine;
+display: flex;
+justify-content: space-between;
+text-align: center;
+margin-left: auto;
+}
+
+
+.menu{
+    color: black;
+}
+
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+}
+
+p,h2{
+text-align: center;   
+font-size: large; 
+
+
+
+}
+
+*{
+    border:solid
+}
+
